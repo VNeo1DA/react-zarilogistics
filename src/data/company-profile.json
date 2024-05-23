@@ -1,0 +1,26 @@
+[
+    { 
+        "id": 0, 
+        "title": "Mission", 
+        "statement": "Our mission is to become the worlds benchmark logistics and clearing company. Applying intuition, service quality and transformation to create continuous growth for business and society.",
+        "img": "./assets/01mission-icon-poster.png"
+    },
+    { 
+        "id": 1, 
+        "title": "Vision", 
+        "statement": "Our vision is to create a better everyday for our clients by offering world class and reliable logistics services at all times.",
+        "img": "./assets/02vision-icon-poster.png"
+    },
+    { 
+        "id": 2, 
+        "title": "Conduct", 
+        "statement": "We strive to conduct business in a professional manner, being accountable for our work and actions while approaching every detail in and ethical manner at all times.",
+        "img": "./assets/03conduct-icon-poster.png"
+    },
+    { 
+        "id": 3, 
+        "title": "Endeavour", 
+        "statement": "We pledge to ensure that our professional comportment is world class at all times.",
+        "img": "./assets/04future-icon-poster.png"
+    }
+]

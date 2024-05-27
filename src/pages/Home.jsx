@@ -13,9 +13,9 @@ function Home(){
                 <div className="tablet-desktop">
                     <div id="opening-header">
                         <p>Welcome to our website</p>
-						<h1>ZARILOGISTICS &amp; CLEARING SERVICES ARE DRIVEN BY<br/>
-						<span id="bold-header">passion and customized service offerings</span>
-						</h1>
+			    <h1>ZARILOGISTICS &amp; CLEARING SERVICES ARE DRIVEN BY<br/>
+				    <span id="bold-header">passion and customized service offerings</span>
+			    </h1>
                     </div>
                     <div id="body-content">
 						<h1>

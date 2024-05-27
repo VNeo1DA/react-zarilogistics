@@ -28,14 +28,14 @@ function Home(){
 				Even though we are located in Johannesburg, we have outstanding relations 
 				with shipping lines and airlines globally.
 			</p>
-		</div>
-			<section className="company-profile">
-				{profileData.map((item) => {
-					return(
-						<ProfileItem key={item.id} companyData={item}/>
-					);
-				})}
-			</section>
+		    </div>
+		    <section className="company-profile">
+			    {profileData.map((item) => {
+				return(
+					<ProfileItem key={item.id} companyData={item}/>
+				);
+			    })}
+		    </section>
 		</div>
                 <div className="call-to-action">
 			<p>
